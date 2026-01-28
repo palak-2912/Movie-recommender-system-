@@ -1,1 +1,2 @@
-# Movie-recommender-system-
+# Movie-recommender-system
+content based movie recommenedation with their poster 
